@@ -1,6 +1,6 @@
 # Quiz-Admin-App
 
-An app to control Quiz App!
+An app to control [Quiz App](https://github.com/Davekibh/Quiz-App)
 
 Add Questions.
 
